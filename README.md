@@ -3,3 +3,4 @@
 # skilaverkefni3_Template-Literals_2
 # verkefni-2-bj-rgvin-og-Hilda
 # skilavekefni-2
+# skilaverkefni4
